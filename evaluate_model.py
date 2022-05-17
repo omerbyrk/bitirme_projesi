@@ -2,6 +2,7 @@ from os import listdir
 from xml.etree import ElementTree
 from numpy import zeros
 from numpy import asarray
+import random
 from numpy import expand_dims
 from numpy import mean
 from mrcnn.config import Config
